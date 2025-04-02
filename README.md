@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansh1503-xd
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning Android and Xamarin
+- 👀 Love to playing around cars and computer
+- 🌱 Studying in Autonomous Vehicle Engineering at Technische Hochschule Ingolstadt
 - 📫 How to reach me Email : anshmayani1503@gmail.com
 
 <!---
